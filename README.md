@@ -20,15 +20,4 @@ A responsive and interactive News App built with React JS and Bootstrap. This ap
    git clone https://github.com/your-username/news-app.git
    cd news-app
    Install dependencies:
-bash
-Copy code
-npm install
-Create a .env file and add your News API key:
-plaintext
-Copy code
-REACT_APP_NEWS_API_KEY=your-api-key
-Start the app:
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to see the News App in action.
+
